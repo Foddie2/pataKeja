@@ -3,7 +3,7 @@
         <Navbar/>
         <Hero/>
 
-        <Modal/>
+        <!-- <Modal/> -->
 
     </div>
 </template>
