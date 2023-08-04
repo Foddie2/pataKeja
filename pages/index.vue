@@ -2,6 +2,7 @@
     <div>
         <Navbar/>
         <Hero/>
+        <!-- <Search/> -->
 
         <!-- <Modal/> -->
 
