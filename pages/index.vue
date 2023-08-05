@@ -4,7 +4,7 @@
         <Hero/>
         <!-- <Search/> -->
 
-        <!-- <Modal/> -->
+        <Modal/>
 
     </div>
 </template>
