@@ -1,10 +1,14 @@
 <template>
-  <Navbar />
-  <Hero />
-  <!-- <Appbar /> -->
-  <!-- <Search/> -->
+  <div>
+    <Navbar />
+    <Hero />
+    <!-- <Appbar /> -->
+    <!-- <Search/> -->
+  
+    <!-- <Modal /> -->
 
-  <!-- <Modal /> -->
+  </div>
+
 </template>
 
 <script>
