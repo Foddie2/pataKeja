@@ -10,7 +10,7 @@
           alt="..."
         />
         <div
-          class="absolute inset-x-[15%] bottom-5 hidden py-5 text-center text-black md:block"
+          class="absolute inset-x-[45%] bottom-5 hidden py-5 text-center text-black md:block"
         >
           <h5 class="text-xl">First slide label</h5>
           <p>Some representative placeholder content for the first slide.</p>
@@ -24,7 +24,7 @@
           alt="..."
         />
         <div
-          class="absolute inset-x-[15%] bottom-5 hidden py-5 text-center text-black md:block"
+          class="absolute inset-x-[45%] bottom-5 hidden py-5 text-center text-black md:block"
         >
           <h5 class="text-xl">First slide label</h5>
           <p>Some representative placeholder content for the first slide.</p>
@@ -38,7 +38,7 @@
           alt="..."
         />
         <div
-          class="absolute inset-x-[15%] bottom-5 hidden py-5 text-center text-black md:block"
+          class="absolute inset-x-[45%] bottom-5 hidden py-5 text-center text-black md:block"
         >
           <h5 class="text-xl">First slide label</h5>
           <p>Some representative placeholder content for the first slide.</p>
@@ -52,7 +52,7 @@
           alt="..."
         />
         <div
-          class="absolute inset-x-[15%] bottom-5 hidden py-5 text-center text-black md:block"
+          class="absolute inset-x-[45%] bottom-5 hidden py-5 text-center text-black md:block"
         >
           <h5 class="text-xl">First slide label</h5>
           <p>Some representative placeholder content for the first slide.</p>
@@ -66,7 +66,7 @@
           alt="..."
         />
         <div
-          class="absolute inset-x-[15%] bottom-5 hidden py-5 text-center text-black md:block"
+          class="absolute inset-x-[45%] bottom-5 hidden py-5 text-center text-black md:block"
         >
           <h5 class="text-xl">First slide label</h5>
           <p>Some representative placeholder content for the first slide.</p>

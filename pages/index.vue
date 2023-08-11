@@ -2,13 +2,12 @@
   <div>
     <Navbar />
     <Hero />
+    <Footer />
     <!-- <Appbar /> -->
     <!-- <Search/> -->
-  
+
     <!-- <Modal /> -->
-
   </div>
-
 </template>
 
 <script>
