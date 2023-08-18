@@ -16,10 +16,7 @@
     "nuxt": "^3.6.5",
     "postcss": "^8.4.27",
     "sass": "^1.65.1",
-<<<<<<< HEAD
-=======
     "sass-loader": "^13.3.2",
->>>>>>> b8be25cff1dbde24a90dcf760b3ff830216a6e3b
     "tailwindcss": "^3.3.3"
   },
   "dependencies": {

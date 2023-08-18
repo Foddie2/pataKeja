@@ -5577,8 +5577,6 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   resolved "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-<<<<<<< HEAD
-=======
 sass-loader@^13.3.2:
   version "13.3.2"
   resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-13.3.2.tgz#460022de27aec772480f03de17f5ba88fa7e18c6"
@@ -5586,7 +5584,6 @@ sass-loader@^13.3.2:
   dependencies:
     neo-async "^2.6.2"
 
->>>>>>> b8be25cff1dbde24a90dcf760b3ff830216a6e3b
 sass@^1.65.1:
   version "1.65.1"
   resolved "https://registry.yarnpkg.com/sass/-/sass-1.65.1.tgz#8f283b0c26335a88246a448d22e1342ba2ea1432"
