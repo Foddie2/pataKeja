@@ -5,6 +5,7 @@
             <p class="description">Experience luxury living with easy search for properties and cars to buy or rent at PataKejah. We provide exquisite service linking you up with the your dream home or car with ease at budget friendly costs. Our listed properties and cars are of quality standard ensuring that we fulfill your needs. Welcome to PataKejah. </p>
             <a href="#" class="btn">Learn More</a>
         </div>
+        <Search/>
     </section>
 </template>
 
